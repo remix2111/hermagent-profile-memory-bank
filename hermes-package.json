@@ -1,0 +1,10 @@
+[
+  {
+    "type": "skill",
+    "name": "profile-memory-bank",
+    "description": "每个 Profile 维护结构化文件记忆(whoami/progress/learnings)，受 Agent-Zero 启发",
+    "version": "1.0.0",
+    "author": "Bryan Lee (remix2111)",
+    "homepage": "https://github.com/remix2111/hermagent-profile-memory-bank"
+  }
+]
